@@ -1,0 +1,46 @@
+h1.bluecolor{
+    color: #ffff;
+    font-size: 28px;
+    font-weight: normal;
+    font-family: "Impact";
+    text-align:center;
+    background-color:orange;
+}
+
+h2.pubg{
+    color: #ffff;
+    font-size: 20px;
+    font-weight: normal;
+    font-family: "Impact";
+    text-align:center;
+    background-color:green;
+}
+
+h2.takkyuu{
+    color: #ffff;
+    font-size: 20px;
+    font-weight: normal;
+    font-family: "Impact";
+    text-align:center;
+    background-color:blue;
+}
+
+h1#kudo{
+ color: #ffff;
+    font-size: 20px;
+    font-weight: normal;
+    font-family: "Impact";
+    text-align:center;
+    background-color:red;
+}
+
+h2{
+    color: red !important;
+}
+
+h2{
+    color: green;
+}
+h2:hover{
+    background-color: beige;
+}
