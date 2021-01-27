@@ -1,0 +1,114 @@
+div.title{
+    width: 1000px;
+    height: 60px;
+    background-color: darkorange;
+    font-size: 45px;
+    font-family: "impact";
+    margin-bottom: 20px;
+    padding: 0px 30px;
+}
+
+div.elementitem1{
+    vertical-align: top;
+    display: inline-block;
+    width: 1000px;
+    height: 60px;
+    font-size: 0px;
+    margin-bottom: 20px;
+}
+
+span.menu{
+    vertical-align: top;
+    display: inline-block;
+    width: 211px;
+    height: 20px;
+    background-image: url();
+    font-size: 15px;
+    margin: 0px 12px 0px 0px;
+    text-align: center;
+    padding:15
+}
+
+span.menu1{
+    vertical-align: top;
+    display: inline-block;
+    width: 211px;
+    height: 20px;
+    background-image: url();
+    font-size: 15px;
+    margin: 0px 12px 0px 0px;
+    text-align: center;
+    padding:15
+}
+
+span.menu2{
+    vertical-align: top;
+    display: inline-block;
+    width: 211px;
+    height: 20px;
+    background-image: url();
+    text-align: center;
+    font-size: 15px;
+    padding:15
+}
+
+div.pagetitle{
+    width: 130px;
+    height: 20px;
+    font-size: 15px;
+    background-color: orange;
+    font-weight:bold;
+    margin-bottom: 20px;
+    padding: 15px 30px 15px 30px;
+}
+
+div.images{
+    width: 1000px;
+    height: 500px;
+    font-size: 0px;
+    margin-bottom: 20px;
+}
+
+div.image{
+    vertical-align: top;
+    display: block;
+    width: 1000px;
+    height: 400px;
+    font-size: 15px;
+    margin: 0px 10px 0px 10px;
+}
+
+div.image2{
+    vertical-align: top;
+    display: inline-block;
+    width: 500px;
+    height: 500px;
+    font-size: 15px;
+    margin: 0px 10px 0px 0px;
+}
+
+div.Sentence{
+    vertical-align: top;
+    display: inline-block;
+    width: 490px;
+    height: 500px;
+    background-image: url(../images/image15.jpg);
+    font-size: 15px;
+    margin-bottom: 0px 0px 0px 10px;
+}
+
+div.footer{
+    width: 1000px;
+    height: 250px;
+    font-size: 20px;
+    background-image: url(../images/image14.jpg);
+}
+
+body{
+    background-image: url(../images/image11.jpg);
+}
+
+div.wrap{
+    width : 1000px;
+    margin : 0px auto;
+}
